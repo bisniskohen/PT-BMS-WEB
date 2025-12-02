@@ -17,7 +17,7 @@ const App: React.FC = () => {
       icon: <SalesIcon />
     },
     {
-      href: "https://kpi-talent.vercel.app/",
+      href: "https://talent-kpi-8ivr.vercel.app/",
       title: "Data Talent",
       description: "Sistem untuk memonitor Key Performance Indicator talent.",
       icon: <TalentIcon />
